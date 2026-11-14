@@ -1,0 +1,7 @@
+{
+  "baseline_prompt_eval_count": 44,
+  "baseline_eval_count": 1,
+  "model": "qwen2.5:3b",
+  "system_prompt": "You are a helpful assistant. Answer the user's request clearly, accurately, and concisely. Do not add unnecessary introductory text.",
+  "note": "Diagnostic only; not subtracted from prompt_eval_count."
+}

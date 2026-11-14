@@ -1,0 +1,289 @@
+﻿id,language,prompt,output,input_tokens,output_tokens,cost_usd,latency_s,input_cost_usd,output_cost_usd,model,temperature,seed,max_tokens,done_reason,error
+1,English,What is the difference between RAM and storage?,"RAM (Random Access Memory) is used for temporarily storing data and programs that are currently in use. It is volatile, meaning data is lost when power is turned off. Storage, on the other hand, is used for long-term data storage and is non-volatile, meaning it retains data even when the device is powered off. Common types of storage include hard disk drives (HDD) and solid-state drives (SSD).",49,87,0.000059550000,10.126978,0.000007350000,0.000052200000,qwen2.5:3b,0,42,256,stop,
+1,Bangla,RAM এবং স্টোরেজের মধ্যে পার্থক্য কী?,"RAM (Random Access Memory) এবং স্টোরেজ (Storage) মধ্যে পার্থক্য হল:
+
+1. RAM একটি সময়ের জন্য ব্যবহারিক মামলা করে এবং স্টোরেজ একটি অনুমানের জন্য ব্যবহারিক মামলা করে।
+
+2. RAM বেশি পরিমাণে ব্যবহারিক হয় এবং স্টোরেজ বেশি পরিমাণে ব্যবহারিক হয় না।
+
+3. RAM সর্বাধিক পরিমাণে ব্যবহারিক হয় এব",77,256,0.000165150000,19.549718,0.000011550000,0.000153600000,qwen2.5:3b,0,42,256,length,
+2,English,Why does the Moon appear to change shape during the month?,"The Moon appears to change shape during the month due to its position relative to the Sun, a phenomenon known as the Moon's phases. As the Moon orbits the Earth, different amounts of its sunlit side are visible from Earth. This cycle of visibility changes occurs over the course of about 29.5 days, which is one lunar month.",52,71,0.000050400000,12.563824,0.000007800000,0.000042600000,qwen2.5:3b,0,42,256,stop,
+2,Bangla,মাসজুড়ে চাঁদকে বিভিন্ন আকারের দেখায় কেন?,মাসজুড়ে চাঁদকে বিভিন্ন আকারের দেখানো হয় কারণ এটি সুন্দর এবং সুন্দর হওয়ার জন্য একটি প্রকৌশালী পদার্থ। এটি মাসজুড়ের বিভিন্ন আকারের দেখানো এবং সুন্দর হওয়ার জন্য ব্যবহৃত হয়। এটি মাসজুড়ের বিভিন্ন আকারের দেখানো এবং সুন্দর হওয়ার জন,85,256,0.000166350000,30.458885,0.000012750000,0.000153600000,qwen2.5:3b,0,42,256,length,
+3,English,What causes rain to form in clouds?,"Rain forms in clouds when the water droplets within the cloud grow large enough to fall through the air as precipitation. This process primarily occurs through two main mechanisms: condensation and ice crystal formation.
+
+1. **Condensation**: Water vapor in the air condenses into liquid water droplets when it comes into contact with a cooler surface within the cloud, such as ice crystals or the cloud's inner walls. This process requires the temperature to be below the dew point, which is the temperature at which water vapor condenses into liquid.
+
+2. **Ice Crystal Formation**: In colder parts of the cloud, water vapor can freeze directly into ice crystals. These ice crystals then attract water vapor and other droplets, causing them to stick together and grow larger. As these ice crystals fall through the warmer parts of the cloud, they melt into liquid water droplets.
+
+When these droplets become heavy enough, they fall from the cloud as rain. In some cases, if the temperature at the ground is below freezing, the raindrops can freeze into snow or sleet.",48,213,0.000135000000,28.873079,0.000007200000,0.000127800000,qwen2.5:3b,0,42,256,stop,
+3,Bangla,মেঘের মধ্যে বৃষ্টি তৈরি হয় কী কারণে?,মেঘের মধ্যে বৃষ্টি তৈরি হয় কারণ মেঘের ভিতরে জলের সঞ্চার। মেঘের ভিতরে জল থাকলে এটা বৃষ্টি তৈরিতে বিশ্বাস্যভাবে বের হয় যখন মেঘের ভিতরে জলের সঞ্চার বড় হয় এবং মেঘের বাইজে জল পড়ে যায়। এটা হল জলের সঞ্চার বা জলের বায়ুমণ্ডলীয় বিন্যাস,82,256,0.000165900000,29.958033,0.000012300000,0.000153600000,qwen2.5:3b,0,42,256,length,
+4,English,How does a search engine find web pages?,"Search engines find web pages through a process called crawling. They use software bots or crawlers that start from a page and follow links to other pages, gradually building an index of web pages. This process is automated and can be quite complex, involving algorithms to prioritize which pages to visit next and how often. The frequency of crawling can vary, but most major search engines like Google, Bing, and Yahoo crawl their index several times a day.",49,89,0.000060750000,15.452466,0.000007350000,0.000053400000,qwen2.5:3b,0,42,256,stop,
+4,Bangla,একটি সার্চ ইঞ্জিন কীভাবে ওয়েবপেজ খুঁজে বের করে?,"একটি সার্চ ইঞ্জিন ওয়েবপেজ খুঁজে বের করে এটি নিম্নরূপ পদক্ষেপগুলি ব্যবহার করে:
+
+1. শুধুমরা: প্রদত্ত শুধুমরা বা শুধুমরা এবং পরিবর্তন ব্যবহার করে সার্চ ইঞ্জিন পেইন্টার বা সার্চ ইঞ্জিনের সাহায্যে পেইন্টার বা সার্চ ইঞ্জিনের সাহায্যে পেইন্টার বা স",93,256,0.000167550000,29.506030,0.000013950000,0.000153600000,qwen2.5:3b,0,42,256,length,
+5,English,Why is regular exercise important for health?,"Regular exercise is important for health because it helps maintain a healthy weight, strengthens the heart and lungs, improves mood, reduces the risk of chronic diseases such as diabetes and cancer, and improves overall physical fitness.",48,42,0.000032400000,18.911178,0.000007200000,0.000025200000,qwen2.5:3b,0,42,256,stop,
+5,Bangla,সুস্থতার জন্য নিয়মিত ব্যায়াম কেন গুরুত্বপূর্ণ?,সুস্থতার জন্য নিয়মিত ব্যায়াম গুরুত্বপুর্ণ কারণ এটি শক্তিশালী হামলা কর্মী হাইড্রোজেন থেকে বাইম্যান হাইড্রোজেন বায়ু বাড়ায় এবং এটি শরীরের শক্তি বৃদ্ধি করে এবং বিস্ফোরণ কমিয়ে দেয়। এটি শরীরের শোষণ ও সুস্থতা প্রদর্শন করে।,94,247,0.000162300000,28.738809,0.000014100000,0.000148200000,qwen2.5:3b,0,42,256,stop,
+6,English,What is the purpose of a primary key in a database table?,The purpose of a primary key in a database table is to uniquely identify each record in the table and to enforce data uniqueness and integrity.,53,28,0.000024750000,10.563529,0.000007950000,0.000016800000,qwen2.5:3b,0,42,256,stop,
+6,Bangla,ডেটাবেস টেবিলে প্রাইমারি কি-এর উদ্দেশ্য কী?,প্রাইমারি কি (Primary Key) ডেটাবেস টেবিলের উদ্দেশ্য হল টেবিলের কোন পরিবর্তনশীল পদক্ষেপের একটি সেই একক মূল্য যা টেবিলের কোন লাইনের সাথে সঠিকভাবে সংযুক্ত থাকে। এটি টেবিলের কোন লাইনের জন্য একটি সেই একক উপাত্ত বা সংখ্যা বা ক্ষেত্র হিসাবে ব্যবহৃত হয়। এটি টেব,84,256,0.000166200000,29.414739,0.000012600000,0.000153600000,qwen2.5:3b,0,42,256,length,
+7,English,How are weather and climate different?,"Weather refers to short-term atmospheric conditions in a specific location, including temperature, humidity, wind, and precipitation over a short period. Climate, on the other hand, describes the long-term average of these conditions in a location, typically over a period of 30 years or more.",47,58,0.000041850000,12.976693,0.000007050000,0.000034800000,qwen2.5:3b,0,42,256,stop,
+7,Bangla,আবহাওয়া ও জলবায়ুর মধ্যে পার্থক্য কী?,"আবহাওয়া ও জলবায়ুর মধ্যে পার্থক্য হল সময়ের মধ্যে পার্থক্য। জলবায়ু সমস্ত সময়ে জল থাকে, তাই এটি আবহাওয়ার একটি সামগ্রিক অংশ। আবহাওয়া সময়ে সময়ে পার্থক্য হতে পারে, কারণ জল থাকলেও আবহাওয়া না হলেও জলবায়ু থাকতে পারে।",82,234,0.000152700000,27.566539,0.000012300000,0.000140400000,qwen2.5:3b,0,42,256,stop,
+8,English,What does an operating system do?,"An operating system manages computer hardware resources, provides common services for computer programs, and acts as a user interface.",47,23,0.000020850000,10.676108,0.000007050000,0.000013800000,qwen2.5:3b,0,42,256,stop,
+8,Bangla,একটি অপারেটিং সিস্টেম কী কাজ করে?,"একটি অপারেটিং সিস্টেম (Operating System, OS) হল একটি সফটওয়েভ সিস্টেম কোড যা বিভিন্ন প্রোগ্রাম এবং ডেটা সম্পর্কে সঠিকভাবে সংযুকতা করে এবং সম্পাদনা করে। এটি ব্যবহারকারীর জন্য একটি সহজ ব্যবহার করা মানে যে প্রোগ্রাম এবং ডেটা সম্পর্কে কাজ করার জন্য প্রয়াস নেওয়া",74,256,0.000164700000,29.421400,0.000011100000,0.000153600000,qwen2.5:3b,0,42,256,length,
+9,English,Why do some metals rust when exposed to air and water?,"Metals rust when exposed to air and water because they undergo a chemical reaction with oxygen and water to form iron oxide, commonly known as rust. This process is called oxidation. Iron is particularly susceptible to rusting due to its chemical properties. When iron comes into contact with oxygen and water, it forms a thin layer of hydrated iron(III) oxide, which is rust. Rusting is a form of corrosion that weakens the metal structure over time.",52,92,0.000063000000,19.110186,0.000007800000,0.000055200000,qwen2.5:3b,0,42,256,stop,
+9,Bangla,কিছু ধাতু বাতাস ও পানির সংস্পর্শে এলে মরিচা ধরে কেন?,"মরিচ কিছু ধাতু, বাতাস ও পানির সংস্পর্শে এলে এটি বিশেষভাবে শরীরের প্রতি প্রতিরোধ উত্পাদন করে। এটি বিশেষভাবে মাংসের সংস্পর্শে এলে এটি বিশেষভাবে প্রতিরোধ উত্পাদন করে। এটি বিশেষভাবে মাংসের সংস্পর্শে এলে এটি বিশেষভাবে প্রতিরোধ উত্পাদন করে। এটি বিশেষভাব",95,256,0.000167850000,29.390161,0.000014250000,0.000153600000,qwen2.5:3b,0,42,256,length,
+10,English,What information does a bar chart show?,"A bar chart shows comparisons among categories. Each bar represents a category, and the length or height of the bar is proportional to the value it represents.",48,31,0.000025800000,11.110480,0.000007200000,0.000018600000,qwen2.5:3b,0,42,256,stop,
+10,Bangla,একটি বার চার্ট কী ধরনের তথ্য দেখায়?,একটি বার চার্ট কী ধরনের তথ্য দেখায়: সময় ও সংখ্যালাভ তথ্য (যেমন সংখ্যালাভ পরিবর্তন বা সংখ্যালাভ বিন্যাস)।,78,112,0.000078900000,17.539913,0.000011700000,0.000067200000,qwen2.5:3b,0,42,256,stop,
+11,English,Write three tips for creating a strong password.,"1. Use a combination of uppercase and lowercase letters, numbers, and symbols.
+2. Avoid using easily guessable information like birthdays or common words.
+3. Make your password at least 12 characters long.",49,44,0.000033750000,19.137043,0.000007350000,0.000026400000,qwen2.5:3b,0,42,256,stop,
+11,Bangla,একটি শক্তিশালী পাসওয়ার্ড তৈরির জন্য তিনটি পরামর্শ লেখো।,1. শক্তিশালী পাসওয়ার্ড তৈরি হল একটি সুন্দর এবং সঠিক পদ্ধতি যা আপনার প্রদত্ত পাসওয়ার্ডের শক্তি বৃদ্ধি করে। একটি শক্তিশালী পাসওয়ার্ড তৈরি হল একটি সঠিক পাসওয়ার্ড এবং একটি সুন্দর পাসওয়ার্ডের মিশন যা আপনার প্রদত্ত পাসওয়ার্ডের শক্তি বৃদ্ধ,100,256,0.000168600000,39.906588,0.000015000000,0.000153600000,qwen2.5:3b,0,42,256,length,
+12,English,Explain how to save a document as a PDF in simple steps.,"To save a document as a PDF, follow these simple steps:
+
+1. Open your document in a program like Microsoft Word, Google Docs, or any text editor.
+2. Click on the ""File"" or ""Go to"" menu at the top of the screen.
+3. Select ""Save As"" or ""Download"" (depending on the program).
+4. In the Save As dialog box, choose a location to save the file and give it a name.
+5. Make sure the file format is set to PDF. This is usually an option in the ""Save as type"" or ""Format"" dropdown menu.
+6. Click ""Save"" or ""Download"" to create the PDF.",54,140,0.000092100000,27.654912,0.000008100000,0.000084000000,qwen2.5:3b,0,42,256,stop,
+12,Bangla,সহজ কয়েকটি ধাপে কীভাবে একটি ডকুমেন্ট PDF হিসেবে সংরক্ষণ করতে হয় তা ব্যাখ্যা করো।,"একটি PDF হিসেবে সংরক্ষণ করতে যতক্ষণ না প্রকাশিত হয়ে যায়, তার পর এটি একটি ডকুমেন্ট হিসেবে সংরক্ষণ করতে হয়। নিম্নলিখিত ধাপগুলি সহজভাবে করে করতে পারেন:
+
+1. প্রথমে ডকুমেন্টটি একটি ফাইডেন্ট স্টোরে বা অন্য সংরক্ষণ প্রোগ্রামে রাখুন। এটি যে স্টোরে বা প",125,256,0.000172350000,37.932159,0.000018750000,0.000153600000,qwen2.5:3b,0,42,256,length,
+13,English,List four ways to reduce electricity use at home.,"1. Use energy-efficient light bulbs.
+2. Turn off lights and electronics when not in use.
+3. Seal air leaks to improve insulation.
+4. Use a programmable thermostat to regulate heating and cooling.",50,43,0.000033300000,10.530833,0.000007500000,0.000025800000,qwen2.5:3b,0,42,256,stop,
+13,Bangla,বাড়িতে বিদ্যুতের ব্যবহার কমানোর চারটি উপায় লেখো।,"1. বিদ্যুৎ ব্যবহারকারী উপযোগী ব্যবস্থা করুন: বিদ্যুৎ ব্যবহারকারী উপযোগী ব্যবস্থা করলে বিদ্যুৎ ব্যবহার কমে যায়। উদাহরণস্বরূপ, বিদ্যুৎ ব্যবহারকারী উপযোগী ব্যবস্থা করলে বিদ্যুৎ ব্যবহারকারী উপযোগী ব্যবস্থা করা হলে বিদ্যুৎ ব্যবহার কমে যায",95,256,0.000167850000,26.878629,0.000014250000,0.000153600000,qwen2.5:3b,0,42,256,length,
+14,English,Give a beginner-friendly plan for learning Python over one week.,"Sure, here's a beginner-friendly plan for learning Python over one week:
+
+Day 1:
+- Install Python on your computer.
+- Watch a video tutorial on Python basics.
+- Practice writing simple Python scripts.
+
+Day 2:
+- Learn about variables, data types, and basic operations.
+- Practice writing simple scripts that use variables and basic operations.
+
+Day 3:
+- Understand control structures (if, else, for, while).
+- Practice writing simple scripts that use control structures.
+
+Day 4:
+- Learn about functions and how to define them.
+- Practice writing simple functions and calling them in your scripts.
+
+Day 5:
+- Understand lists, tuples, and dictionaries.
+- Practice working with these data structures in your scripts.
+
+Day 6:
+- Learn about loops and how to use them effectively.
+- Practice writing scripts that use loops.
+
+Day 7:
+- Review what you've learned.
+- Start working on a small project or problem that you can solve using Python.
+- Practice writing clean, readable code.
+
+Remember to take breaks and review what you've learned regularly. Good luck!",52,221,0.000140400000,24.400941,0.000007800000,0.000132600000,qwen2.5:3b,0,42,256,stop,
+14,Bangla,এক সপ্তাহে Python শেখার জন্য নতুনদের উপযোগী একটি পরিকল্পনা দাও।,"এক সপ্তাহে Python শিখানোর জন্য এটি একটি পরিকল্পনা:
+
+1. প্রথম দিন: প্রেক্সিট এবং একটি স্ক্যানার ব্যবহার শুরু করুন। এটি একটি সহজ এবং সুবিধাজাত প্রোগ্রামিং ভিডিও সাইট।
+
+2. দুই দিন: একটি স্কোরিং প্রোগ্রাম লিখুন। এটি একটি সহজ উদাহরণ হবে যা আপনার প্রোগ্রামিং",100,256,0.000168600000,26.085293,0.000015000000,0.000153600000,qwen2.5:3b,0,42,256,length,
+15,English,Describe how to wash your hands properly.,"To wash your hands properly, wet them with clean water, apply soap, and lather well, covering all surfaces including the back of your hands, between fingers, and under nails. Rub your hands together for at least 20 seconds, then rinse thoroughly under running water. Dry your hands using a clean towel or air dry them.",48,69,0.000048600000,11.225935,0.000007200000,0.000041400000,qwen2.5:3b,0,42,256,stop,
+15,Bangla,সঠিকভাবে হাত ধোয়ার পদ্ধতি বর্ণনা করো।,হাত ধোয়ার পদ্ধতি হল হাতের ক্ষুদ্র ক্ষেত্রে পরিবেশ পরিবর্তন করা এবং হাতের ক্ষুদ্র ক্ষেত্রে পরিবেশ প্রভাবিত করা। এটি হল হাতের ক্ষুদ্র ক্ষেত্রে পরিবেশ পরিবর্তন করা এবং হাতের ক্ষুদ্র ক্ষেত্রে পরিবেশ প্রভাবিত করা। এটি হল হাতের ক্ষুদ্র ক্ষেত্রে পরিবেশ,82,256,0.000165900000,25.372985,0.000012300000,0.000153600000,qwen2.5:3b,0,42,256,length,
+16,English,Suggest three checks to perform before sending an email.,"1. Proofread for spelling and grammar errors.
+2. Ensure all information is accurate and complete.
+3. Check the email for professionalism and appropriateness.",51,33,0.000027450000,12.517112,0.000007650000,0.000019800000,qwen2.5:3b,0,42,256,stop,
+16,Bangla,"একটি ইমেইল পাঠানোর আগে যে তিনটি বিষয় যাচাই করা উচিত, সেগুলো বলো।","1. ইমেইলের সামান্যতা এবং সঠিকতা পরিচালনা করেছেন কিনা?
+2. ইমেইলটি বিশ্লেষণের জন্য সঠিক এবং সহজ হয়েছে কিনা?
+3. ইমেইলটি সঠিকভাবে বিষয়টি প্রকাশ করেছে কিনা?",110,159,0.000111900000,19.877692,0.000016500000,0.000095400000,qwen2.5:3b,0,42,256,stop,
+17,English,Write a short checklist for preparing for an online meeting.,"1. Ensure you have a stable and reliable internet connection.
+2. Test your audio and video settings before the meeting.
+3. Choose a quiet and well-lit area for the meeting.
+4. Dress appropriately as if you were in a face-to-face meeting.
+5. Arrive early to allow for any technical issues.
+6. Have your meeting materials ready, such as documents or presentations.
+7. Be prepared to share your screen if needed.
+8. Keep your camera on to maintain engagement and professionalism.
+9. Adjust your microphone volume to avoid feedback.
+10. Close any unnecessary applications to free up system resources.",51,126,0.000083250000,16.374665,0.000007650000,0.000075600000,qwen2.5:3b,0,42,256,stop,
+17,Bangla,অনলাইন মিটিংয়ের প্রস্তুতির জন্য একটি সংক্ষিপ্ত চেকলিস্ট লেখো।,"Online Meeting Checklist:
+
+1. Confirm the meeting link and time.
+2. Ensure your internet connection is stable.
+3. Test your audio and video settings.
+4. Have your presentation or agenda ready.
+5. Be on time.
+6. Keep your microphone muted when not speaking.
+7. Use headphones for better audio quality.
+8. Keep your webcam on to avoid suspicion.
+9. Be ready to answer any technical issues.
+10. Stay focused and on time.",106,95,0.000072900000,14.651850,0.000015900000,0.000057000000,qwen2.5:3b,0,42,256,stop,
+18,English,Give two practical ways to protect a laptop from overheating.,"1. Ensure proper ventilation by keeping the laptop away from surfaces and objects that can block air vents.
+2. Use a cooling pad to provide additional airflow and reduce heat buildup.",52,36,0.000029400000,9.784071,0.000007800000,0.000021600000,qwen2.5:3b,0,42,256,stop,
+18,Bangla,ল্যাপটপ অতিরিক্ত গরম হওয়া থেকে রক্ষা করার দুটি কার্যকর উপায় বলো।,"ল্যাপটপ অতিরিক্ত গরম হওয়া থেকে রক্ষা করার দুটি কার্যকর উপায়:
+
+1. ল্যাপটপের বাইরে একটি বোর্ড বা বাইক বানানো যায়। এটি ল্যাপটপের গরম প্রবাহ থেকে রক্ষা করে তোলে।
+
+2. ল্যাপটপের বাইরে একটি বাইক বা বোর্ড বানানোর মাধ্যমে গরম প্রবাহ থেকে রক্ষা করা হয়েছে,",110,256,0.000170100000,27.627894,0.000016500000,0.000153600000,qwen2.5:3b,0,42,256,length,
+19,English,Explain how to calculate the average of five numbers.,"To calculate the average of five numbers, add all the numbers together and then divide the sum by 5.",51,23,0.000021450000,8.859087,0.000007650000,0.000013800000,qwen2.5:3b,0,42,256,stop,
+19,Bangla,পাঁচটি সংখ্যার গড় কীভাবে হিসাব করতে হয় তা ব্যাখ্যা করো।,"পাঁচটি সংখ্যার গড় হিসাব করতে এটি দুই পদক্ষেপে হয়:
+
+1. প্রথমে সবচেয়ে মুখোমুখি সংখ্যাগুলি যোগ করে যোগফল হিসাব করুন।
+2. পরে যোগফলকে সংখ্যাগুলির সংখ্যা দিয়ে ভাগ করুন। যেমন, যদি সংখ্যাগুলি 5, 10, 15, 20, 25 হন, তাহলে যোগফল 75 হবে এবং স",102,256,0.000168900000,28.281069,0.000015300000,0.000153600000,qwen2.5:3b,0,42,256,length,
+20,English,Provide a simple sequence of steps for organizing files into folders.,"1. Sort files into categories based on type, date, or any other relevant criteria.
+2. Create folders for each category.
+3. Move files into their respective folders.
+4. Regularly review and organize files to maintain a clean system.",52,50,0.000037800000,12.096222,0.000007800000,0.000030000000,qwen2.5:3b,0,42,256,stop,
+20,Bangla,ফাইলগুলোকে বিভিন্ন ফোল্ডারে সাজানোর সহজ ধাপগুলো লেখো।,"ফাইলগুলোকে বিভিন্ন ফোল্ডারে সাজানোর সহজ ধাপগুলো যথাঃ
+
+1. প্রথমে ফাইলস এবং ফোল্ডারস সম্পর্কে জানা দরকার। যদি তা নেই তবে প্রথমে সব ফাইল এবং ফোল্ডার সম্পর্কে জানো।
+
+2. পরে ফাইলগুলোকে বিভিন্ন ফোল্ডারে সাজানোর জন্য একটি প্রোগ্রাম ব্যবহার করো। যেম",100,256,0.000168600000,31.149529,0.000015000000,0.000153600000,qwen2.5:3b,0,42,256,length,
+21,English,A computer network connects devices so they can exchange information and share resources.,A computer network links devices to allow information exchange and resource sharing.,54,14,0.000016500000,16.648101,0.000008100000,0.000008400000,qwen2.5:3b,0,42,256,stop,
+21,Bangla,"কম্পিউটার নেটওয়ার্ক বিভিন্ন ডিভাইসকে সংযুক্ত করে, যাতে তারা তথ্য আদান-প্রদান করতে এবং সম্পদ ভাগাভাগি করে ব্যবহার করতে পারে।",Computer networks connect various devices so they can exchange data and share resources.,168,15,0.000034200000,12.324457,0.000025200000,0.000009000000,qwen2.5:3b,0,42,256,stop,
+22,English,Photosynthesis is the process by which green plants use sunlight to make food from water and carbon dioxide.,Photosynthesis is the process by which green plants use sunlight to make food from water and carbon dioxide.,60,21,0.000021600000,8.459400,0.000009000000,0.000012600000,qwen2.5:3b,0,42,256,stop,
+22,Bangla,"সালোকসংশ্লেষণ হলো এমন একটি প্রক্রিয়া, যার মাধ্যমে সবুজ উদ্ভিদ সূর্যালোক ব্যবহার করে পানি ও কার্বন ডাই-অক্সাইড থেকে খাদ্য তৈরি করে।",Photosynthesis is a process where green plants use sunlight to produce food from water and carbon dioxide.,179,20,0.000038850000,8.692482,0.000026850000,0.000012000000,qwen2.5:3b,0,42,256,stop,
+23,English,A database stores information in an organized way so that it can be searched and updated easily.,A database organizes information in an organized way to facilitate easy searching and updating.,58,17,0.000018900000,8.181035,0.000008700000,0.000010200000,qwen2.5:3b,0,42,256,stop,
+23,Bangla,"ডেটাবেস তথ্যকে সুশৃঙ্খলভাবে সংরক্ষণ করে, যাতে সহজে তথ্য খোঁজা ও হালনাগাদ করা যায়।",Store data in a database in an organized way so that data can be easily searched and updated.,128,20,0.000031200000,8.646792,0.000019200000,0.000012000000,qwen2.5:3b,0,42,256,stop,
+24,English,A vaccine trains the immune system to recognize a particular disease-causing organism.,A vaccine teaches the immune system to identify a specific disease-causing organism.,55,16,0.000017850000,8.149930,0.000008250000,0.000009600000,qwen2.5:3b,0,42,256,stop,
+24,Bangla,টিকা রোগ সৃষ্টিকারী নির্দিষ্ট জীবাণুকে শনাক্ত করতে রোগ প্রতিরোধব্যবস্থাকে প্রস্তুত করে।,Finding the right herb that causes cancer can prepare the body for disease resistance.,135,16,0.000029850000,8.263302,0.000020250000,0.000009600000,qwen2.5:3b,0,42,256,stop,
+25,English,Cloud computing allows people to use computing services over the internet instead of relying only on their own computers.,Cloud computing enables users to access computing services over the internet rather than relying solely on their local computers.,60,21,0.000021600000,8.403349,0.000009000000,0.000012600000,qwen2.5:3b,0,42,256,stop,
+25,Bangla,ক্লাউড কম্পিউটিংয়ের মাধ্যমে মানুষ শুধু নিজের কম্পিউটারের ওপর নির্ভর না করে ইন্টারনেটের মাধ্যমে কম্পিউটিং সেবা ব্যবহার করতে পারে।,"Through cloud computing, people can use computing services over the internet without relying solely on their own computer.",173,21,0.000038550000,8.638182,0.000025950000,0.000012600000,qwen2.5:3b,0,42,256,stop,
+26,English,Recycling turns used materials into new products and can reduce the amount of waste sent to landfills.,"Recycling transforms used materials into new products, helping to decrease the amount of waste sent to landfills.",60,22,0.000022200000,8.559796,0.000009000000,0.000013200000,qwen2.5:3b,0,42,256,stop,
+26,Bangla,পুনর্ব্যবহার প্রক্রিয়ায় ব্যবহৃত উপকরণ থেকে নতুন পণ্য তৈরি করা হয় এবং এতে ময়লার ভাগাড়ে পাঠানো বর্জ্যের পরিমাণ কমতে পারে।,"A new product is produced using reconditioned equipment, and this can reduce the amount of hazardous waste.",175,22,0.000039450000,8.602301,0.000026250000,0.000013200000,qwen2.5:3b,0,42,256,stop,
+27,English,An algorithm is a clear sequence of steps used to solve a problem or complete a task.,An algorithm is a clear sequence of steps used to solve a problem or complete a task.,58,19,0.000020100000,8.295696,0.000008700000,0.000011400000,qwen2.5:3b,0,42,256,stop,
+27,Bangla,অ্যালগরিদম হলো কোনো সমস্যা সমাধান বা কাজ সম্পন্ন করার জন্য নির্ধারিত স্পষ্ট ধাপের ধারাবাহিকতা।,Algorithm is a step-by-step sequence of instructions for solving a problem or accomplishing a task.,137,20,0.000032550000,8.482252,0.000020550000,0.000012000000,qwen2.5:3b,0,42,256,stop,
+28,English,Inflation is a general increase in prices that reduces the purchasing power of money over time.,Inflation is a general increase in prices and corresponding reduction in the purchasing value of money over time.,58,21,0.000021300000,8.604818,0.000008700000,0.000012600000,qwen2.5:3b,0,42,256,stop,
+28,Bangla,"মুদ্রাস্ফীতি হলো পণ্যের দাম সামগ্রিকভাবে বেড়ে যাওয়া, যার ফলে সময়ের সঙ্গে টাকার ক্রয়ক্ষমতা কমে যায়।","Inflation is when the price of goods increases overall, making it harder to afford things over time.",151,21,0.000035250000,8.709564,0.000022650000,0.000012600000,qwen2.5:3b,0,42,256,stop,
+29,English,A firewall monitors network traffic and applies rules to help block unauthorized access.,A firewall monitors network traffic and applies rules to block unauthorized access.,54,14,0.000016500000,8.061663,0.000008100000,0.000008400000,qwen2.5:3b,0,42,256,stop,
+29,Bangla,ফায়ারওয়াল নেটওয়ার্কের ট্রাফিক পর্যবেক্ষণ করে এবং অননুমোদিত প্রবেশ ঠেকাতে নির্ধারিত নিয়ম প্রয়োগ করে।,A firewall monitors network traffic and applies specified rules to allow only approved access.,153,16,0.000032550000,8.579337,0.000022950000,0.000009600000,qwen2.5:3b,0,42,256,stop,
+30,English,"The water cycle describes how water moves between the Earth's surface and the atmosphere through evaporation, condensation, and precipitation.","The water cycle describes the continuous movement of water on Earth, from oceans and other bodies of water to the atmosphere through evaporation, then cooling and condensation into clouds, and finally precipitation as rain or snow, which returns the water to the Earth's surface.",65,53,0.000041550000,10.450286,0.000009750000,0.000031800000,qwen2.5:3b,0,42,256,stop,
+30,Bangla,"পানি চক্রে বাষ্পীভবন, ঘনীভবন ও বৃষ্টিপাতের মাধ্যমে পৃথিবীর পৃষ্ঠ এবং বায়ুমণ্ডলের মধ্যে পানির চলাচল বর্ণনা করা হয়।","The circulation of water on Earth's surface and in the atmosphere is described through evaporation, condensation, and precipitation.",165,25,0.000039750000,9.221112,0.000024750000,0.000015000000,qwen2.5:3b,0,42,256,stop,
+31,English,What is 18 multiplied by 7?,126,50,4,0.000009900000,8.105355,0.000007500000,0.000002400000,qwen2.5:3b,0,42,256,stop,
+31,Bangla,১৮-এর সঙ্গে ৭ গুণ করলে কত হয়?,১৮ এর সঙ্গে ৭ গুণ করলে ১২৬ হয়।,75,40,0.000035250000,9.660397,0.000011250000,0.000024000000,qwen2.5:3b,0,42,256,stop,
+32,English,A notebook costs 45 taka. How much do 4 notebooks cost?,The cost of 4 notebooks is 180 taka.,57,15,0.000017550000,8.139792,0.000008550000,0.000009000000,qwen2.5:3b,0,42,256,stop,
+32,Bangla,একটি খাতার দাম ৪৫ টাকা। ৪টি খাতার দাম কত?,একটি খাতার দাম ৪৫ টাকা। ৪টি খাতার দাম ১৮০ টাকা।,84,54,0.000045000000,10.233722,0.000012600000,0.000032400000,qwen2.5:3b,0,42,256,stop,
+33,English,Divide 144 by 12 and give the result.,12,55,3,0.000010050000,7.798632,0.000008250000,0.000001800000,qwen2.5:3b,0,42,256,stop,
+33,Bangla,১৪৪-কে ১২ দিয়ে ভাগ করে ফলাফল দাও।,"20.3333
+
+Note: The original question seems to have a typo, as it asks to divide 144 by 12, which equals 12, not 144. Assuming the correct question was 144 ÷ 12, the answer is 12.",80,68,0.000052800000,10.763827,0.000012000000,0.000040800000,qwen2.5:3b,0,42,256,stop,
+34,English,A bus travels 60 kilometres in one hour. How far will it travel in 3 hours at the same speed?,The bus will travel 180 kilometres in 3 hours at the same speed.,65,19,0.000021150000,8.497056,0.000009750000,0.000011400000,qwen2.5:3b,0,42,256,stop,
+34,Bangla,একটি বাস এক ঘণ্টায় ৬০ কিলোমিটার যায়। একই গতিতে ৩ ঘণ্টায় বাসটি কত দূর যাবে?,"একই গতিতে 3 ঘণ্টায় বাসটি 180 কিলোমিটার যাবে।
+
+(কারণ: 60 কিলোমিটার প্রতি ঘণ্টা × 3 ঘণ্টা = 180 কিলোমিটার)",125,107,0.000082950000,16.161087,0.000018750000,0.000064200000,qwen2.5:3b,0,42,256,stop,
+35,English,You have 500 taka and spend 175 taka. How much money remains?,You have 325 taka remaining.,62,11,0.000015900000,8.412834,0.000009300000,0.000006600000,qwen2.5:3b,0,42,256,stop,
+35,Bangla,তোমার কাছে ৫০০ টাকা আছে এবং তুমি ১৭৫ টাকা খরচ করলে। তোমার কাছে কত টাকা বাকি থাকবে?,তোমার কাছে 325 টাকা বাকি থা�কবে।,132,33,0.000039600000,9.697300,0.000019800000,0.000019800000,qwen2.5:3b,0,42,256,stop,
+36,English,"A class has 30 students. If 18 are girls, how many are boys?",There are 12 boys in the class.,60,11,0.000015600000,8.150782,0.000009000000,0.000006600000,qwen2.5:3b,0,42,256,stop,
+36,Bangla,"একটি শ্রেণিতে ৩০ জন শিক্ষার্থী আছে। তাদের মধ্যে ১৮ জন মেয়ে হলে, ছেলে কতজন?","ছেলে 12জন।
+
+(30 জন - 18 জন = 12 জন)",121,33,0.000037950000,9.429987,0.000018150000,0.000019800000,qwen2.5:3b,0,42,256,stop,
+37,English,What is 15 percent of 200?,30,52,3,0.000009600000,7.857571,0.000007800000,0.000001800000,qwen2.5:3b,0,42,256,stop,
+37,Bangla,২০০-এর ১৫ শতাংশ কত?,2000 এর 15% = 300,64,17,0.000019800000,9.681742,0.000009600000,0.000010200000,qwen2.5:3b,0,42,256,stop,
+38,English,A tank contains 25 litres of water. Another 8 litres are added. How much water is in the tank now?,The tank now contains 33 litres of water.,66,12,0.000017100000,8.150691,0.000009900000,0.000007200000,qwen2.5:3b,0,42,256,stop,
+38,Bangla,একটি ট্যাংকে ২৫ লিটার পানি আছে। এতে আরও ৮ লিটার পানি যোগ করা হলো। এখন ট্যাংকে মোট কত লিটার পানি আছে?,এখন ট্যাংকে মোট 33 লিটার পানি আছে।,146,36,0.000043500000,10.536456,0.000021900000,0.000021600000,qwen2.5:3b,0,42,256,stop,
+39,English,"If 6 people share 48 oranges equally, how many oranges does each person get?",Each person gets 8 oranges.,59,8,0.000013650000,8.068301,0.000008850000,0.000004800000,qwen2.5:3b,0,42,256,stop,
+39,Bangla,৬ জনের মধ্যে ৪৮টি কমলা সমানভাবে ভাগ করে দিলে প্রত্যেকে কয়টি কমলা পাবে?,প্রত্যেকে 48/6 = 8টি কমলা পাবে।,115,31,0.000035850000,9.502928,0.000017250000,0.000018600000,qwen2.5:3b,0,42,256,stop,
+40,English,A phone battery drops from 90 percent to 65 percent. By how many percentage points did it decrease?,The phone battery decreased by 25 percentage points.,64,12,0.000016800000,11.198965,0.000009600000,0.000007200000,qwen2.5:3b,0,42,256,stop,
+40,Bangla,একটি ফোনের ব্যাটারির চার্জ ৯০ শতাংশ থেকে ৬৫ শতাংশে নেমে গেল। চার্জ কত শতাংশ পয়েন্ট কমেছে?,"চার্জ ৪৫ শতাংশ পয়েন্ট কমেছে। (90-65= 25, 100-25= 75)",136,56,0.000054000000,11.651344,0.000020400000,0.000033600000,qwen2.5:3b,0,42,256,stop,
+41,English,Summarise this sentence in one short sentence: The library extended its opening hours so students could study after their classes ended.,Students can now study at the library after classes end.,65,12,0.000016950000,8.385055,0.000009750000,0.000007200000,qwen2.5:3b,0,42,256,stop,
+41,Bangla,"এই বাক্যটি এক বাক্যে সংক্ষেপ করো: শিক্ষার্থীরা ক্লাস শেষ হওয়ার পরও পড়াশোনা করতে পারে, তাই লাইব্রেরি খোলা থাকার সময় বাড়ানো হয়েছে।","শিক্ষার্থীরা ক্লাস শেষেও পড়াশোনা করতে পারে, তাই লাইব্রেরি খোলা সময় বাড়ানো হয়েছে।",184,93,0.000083400000,14.061816,0.000027600000,0.000055800000,qwen2.5:3b,0,42,256,stop,
+42,English,Summarise this sentence in a few words: Heavy rainfall caused flooding in several villages and disrupted local transport.,"Rain caused flooding, disrupted transport.",62,8,0.000014100000,9.362974,0.000009300000,0.000004800000,qwen2.5:3b,0,42,256,stop,
+42,Bangla,এই বাক্যটি কয়েকটি শব্দে সংক্ষেপ করো: ভারী বৃষ্টিতে কয়েকটি গ্রামে বন্যা হয়েছে এবং স্থানীয় পরিবহনব্যবস্থা ব্যাহত হয়েছে।,ভারী বৃষ্টিতে কয়েক গ্রামে বন্যা হয়েছিল এবং স্থানীয় পরিবহনব্যবস্থা ব্যাহত হয়েছিল।,173,93,0.000081750000,14.701404,0.000025950000,0.000055800000,qwen2.5:3b,0,42,256,stop,
+43,English,Summarise this sentence in one sentence: The company introduced flexible working hours to help employees balance their work and personal responsibilities.,The company implemented flexible working hours to assist employees in balancing work and personal responsibilities.,65,17,0.000019950000,8.380935,0.000009750000,0.000010200000,qwen2.5:3b,0,42,256,stop,
+43,Bangla,"এই বাক্যটি এক বাক্যে সংক্ষেপ করো: কর্মীরা যাতে কাজ ও ব্যক্তিগত দায়িত্বের মধ্যে ভারসাম্য রাখতে পারেন, সে জন্য কোম্পানিটি নমনীয় কর্মঘণ্টা চালু করেছে।","কর্মীরা নমনীয় কর্মঘণ্টা চালু করে, যাতে কাজ ও ব্যক্তিগত দায়িত্বের মধ্যে ভারসাম্য রাখতে পারেন।",198,101,0.000090300000,14.745235,0.000029700000,0.000060600000,qwen2.5:3b,0,42,256,stop,
+44,English,Summarise this sentence without changing its main meaning: Regular backups help people recover important files after accidental deletion or device failure.,Backups prevent loss of important files due to accidental deletion or device failure.,65,16,0.000019350000,11.422593,0.000009750000,0.000009600000,qwen2.5:3b,0,42,256,stop,
+44,Bangla,মূল অর্থ অপরিবর্তিত রেখে বাক্যটি সংক্ষেপ করো: নিয়মিত ব্যাকআপ রাখলে ভুলবশত ফাইল মুছে গেলে বা ডিভাইস নষ্ট হলে গুরুত্বপূর্ণ ফাইল পুনরুদ্ধার করা যায়।,যদি নিয়মিত ব্যাকআপ রাখে তাহলে ভুলে গেলে ফাইল মুছে গেলে বা ডিভাইস নষ্ট হলে গুরুত্বপূর্ণ ফাইল পুনরুদ্ধারণ যায়।,199,120,0.000101850000,16.426876,0.000029850000,0.000072000000,qwen2.5:3b,0,42,256,stop,
+45,English,A small shop wants to keep track of its products. It currently writes sales in a paper notebook. Explain two benefits of using a simple spreadsheet instead.,"Using a simple spreadsheet for tracking sales offers two main benefits: 
+1. **Ease of Data Entry and Updates**: Spreadsheets allow for easy and quick updates to sales data, making it simpler to record transactions and adjust figures as needed.
+2. **Visual Analysis and Reporting**: Spreadsheets provide tools for visualizing data through charts and graphs, which can help in identifying trends, patterns, and insights that might not be immediately apparent from a paper notebook. This aids in making informed decisions and improving sales strategies.",70,104,0.000072900000,15.650122,0.000010500000,0.000062400000,qwen2.5:3b,0,42,256,stop,
+45,Bangla,একটি ছোট দোকান তার পণ্যের হিসাব রাখতে চায়। বর্তমানে দোকানটি কাগজের খাতায় বিক্রির তথ্য লেখে। এর পরিবর্তে একটি সাধারণ স্প্রেডশিট ব্যবহার করার দুটি সুবিধা ব্যাখ্যা করো।,"একটি সাধারণ স্প্রেডশিট ব্যবহার করে দোকানের পণ্যের হিসাব রাখতে দুটি সুবিধা হল:
+
+1. স্প্রেডশিটে বিক্রির তথ্য সহজে মানুষের মনে পড়া যায়: স্প্রেডশিটে বিক্রির তথ্য সাধারণত সামান্য সারাংশে দেওয়া হয়, যা বিক্রির পরিমাণ এবং পরিমাণের মূল্য সহ প্রদান করে।
+
+",215,256,0.000185850000,28.852945,0.000032250000,0.000153600000,qwen2.5:3b,0,42,256,length,
+46,English,A student has an exam in seven days and has four subjects to revise. Suggest a realistic daily study plan. Include short breaks and time for reviewing difficult topics.,"Here's a realistic daily study plan for the student over the next seven days, including short breaks and time for reviewing difficult topics:
+
+**Day 1:**
+- 8:00 AM - 9:00 AM: Subject 1 (30 minutes)
+- 9:00 AM - 9:30 AM: Break
+- 9:30 AM - 10:30 AM: Subject 2 (1 hour)
+- 10:30 AM - 10:45 AM: Break
+- 10:45 AM - 12:00 PM: Subject 3 (1 hour 15 minutes)
+- 12:00 PM - 12:30 PM: Lunch Break
+- 12:30 PM - 1:30 PM: Subject 4 (1 hour)
+- 1:30 PM - 2:00 PM: Review difficult topics (30 minutes)
+
+**Day 2:**
+- 8:00 AM - 9:00 AM: Subject 1 (30 minutes)
+- 9:00 AM - 9:30 AM: Break
+- ",73,256,0.000164550000,29.082517,0.000010950000,0.000153600000,qwen2.5:3b,0,42,256,length,
+46,Bangla,একজন শিক্ষার্থীর সাত দিন পর পরীক্ষা এবং তাকে চারটি বিষয় পুনরায় পড়তে হবে। প্রতিদিনের জন্য একটি বাস্তবসম্মত পড়ার পরিকল্পনা দাও। এতে ছোট বিরতি এবং কঠিন বিষয়গুলো পুনরায় পড়ার সময় রাখো।,"প্রতিদিনের জন্য একটি বাস্তবসম্মত পড়ার পরিকল্পনা হতে যাওয়ার জন্য শিক্ষার্থী চারটি বিষয় প্রতিদিনের পরিকল্পনা করতে হবে। যেমন, প্রথম দিনে প্রথম বিষয় পড়ার জন্য সময় নিন, দ্বিতীয় দিনে দ্বিতীয় বিষয় পড়ার জন্য সময় নিন এবং এভাবে এভাবে এগুল",246,256,0.000190500000,29.312521,0.000036900000,0.000153600000,qwen2.5:3b,0,42,256,length,
+47,English,A person receives an email asking them to click a link and confirm their bank password. Explain why this may be dangerous and list safe actions they should take.,"This scenario is dangerous because the email is likely a phishing attempt. Cybercriminals often use such tactics to steal personal information, particularly banking details, which can lead to identity theft or financial loss.
+
+Safe actions they should take are:
+1. Do not click on any links or provide any personal information.
+2. Verify the authenticity of the email by checking the sender's address against known contacts or the official bank website.
+3. Contact the bank directly using a known and trusted contact number or website to confirm if the email is legitimate.
+4. Avoid sharing any sensitive information via email.
+5. Use strong, unique passwords for financial accounts and consider using a password manager.
+6. Enable two-factor authentication for added security.",71,144,0.000097050000,20.547813,0.000010650000,0.000086400000,qwen2.5:3b,0,42,256,stop,
+47,Bangla,"একজন ব্যক্তি একটি ইমেইল পেয়েছেন, যেখানে একটি লিংকে ক্লিক করে ব্যাংকের পাসওয়ার্ড নিশ্চিত করতে বলা হয়েছে। এটি কেন বিপজ্জনক হতে পারে তা ব্যাখ্যা করো এবং তাঁর নেওয়া উচিত এমন নিরাপদ পদক্ষেপগুলোর তালিকা দাও।","এটি বিপজ্জনক কারণ একজন ব্যক্তি পাসওয়ার্ড নিশ্চিত করতে একটি লিংক পেয়েছেন এবং সেটি অন্য কেন্দ্রে অন্তর্ভুক্ত করা হয়েছে। এটি বিপজ্জনক কারণ পাসওয়ার্ড নিশ্চিত করার জন্য একটি লিংক পেয়েছেন এবং সেটি অন্য কেন্দ্রে অন্তর্ভুক্ত করা হয়েছে।
+
+উচিত নেওয়া",253,256,0.000191550000,29.868443,0.000037950000,0.000153600000,qwen2.5:3b,0,42,256,length,
+48,English,"A town is producing more plastic waste every year. Describe three practical actions that residents, shops, or local authorities could take to reduce this problem.","1. Residents could reduce plastic use by bringing reusable bags, bottles, and containers, and choosing products with less packaging.
+2. Shops could offer incentives for customers who bring their own bags and containers, and reduce the use of plastic packaging in their products.
+3. Local authorities could implement stricter regulations on plastic usage, provide recycling facilities, and educate the public on the importance of reducing plastic waste.",69,80,0.000058350000,14.952770,0.000010350000,0.000048000000,qwen2.5:3b,0,42,256,stop,
+48,Bangla,"একটি শহরে প্রতি বছর প্লাস্টিক বর্জ্যের পরিমাণ বাড়ছে। এই সমস্যা কমাতে বাসিন্দা, দোকান বা স্থানীয় কর্তৃপক্ষ তিনটি বাস্তবসম্মত পদক্ষেপ নিতে পারে—সেগুলো বর্ণনা করো।","1. বাসিন্দাদের প্রতি বছর প্লাস্টিক বর্জ্য বিতরনের প্রচলন প্রচার করা।
+2. দোকানের প্রতি বছর প্লাস্টিক বর্জ্য বিতরনের প্রচলন প্রচার করা।
+3. স্থানীয় কর্তৃপক্ষের প্রতি বছর প্লাস্টিক বর্জ্য বিতরনের প্রচলন প্রচার করা।",210,216,0.000161100000,26.264951,0.000031500000,0.000129600000,qwen2.5:3b,0,42,256,stop,
+49,English,"A team is building a website for a local community group. The website must show announcements, upcoming events, and contact details. Suggest a simple page structure and explain what each section should contain.","Sure, here's a simple page structure for the website:
+
+1. **Header Section**:
+   - Logo of the community group
+   - Navigation menu (Home, Announcements, Events, Contact)
+   - Search bar for quick access to search for announcements or events
+
+2. **Announcements Section**:
+   - A list of recent announcements with brief descriptions and dates
+   - A ""Read More"" link for each announcement to a detailed page
+
+3. **Events Section**:
+   - Upcoming events with titles, dates, times, and locations
+   - A ""View All Events"" link to a separate page listing all events
+
+4. **Contact Section**:
+   - Contact form for users to send messages
+   - Contact details (address, phone number, email)
+   - Social media links to community group pages
+
+5. **Footer Section**:
+   - Links to important community pages or resources
+   - Social media links to the community group
+   - Newsletter signup form
+   - Copyright information
+
+This structure ensures that all essential information is easily accessible and organized.",79,222,0.000145050000,26.622577,0.000011850000,0.000133200000,qwen2.5:3b,0,42,256,stop,
+49,Bangla,"একটি দল স্থানীয় একটি কমিউনিটি গ্রুপের জন্য ওয়েবসাইট তৈরি করছে। ওয়েবসাইটে ঘোষণা, আসন্ন অনুষ্ঠান এবং যোগাযোগের তথ্য দেখাতে হবে। একটি সহজ পেজ কাঠামোর প্রস্তাব দাও এবং প্রতিটি অংশে কী থাকবে তা ব্যাখ্যা করো।","পেজ নাম: সামগ্রিক তথ্য
+
+1. পেজ শুরু হওয়ার জন্য একটি শুভেচ্ছা প্রবেশ পেজ থাকবে। এটি দলের মূল প্রকার এবং সামগ্রিক তথ্য দেখাবে।
+
+2. সামগ্রিক তথ্য পেজে দলের সামগ্রিক তথ্য দেখানোর জন্য একটি পেজ থাকবে। এটি স্থানীয় কমিউনিটি গ্রুপের সামগ্রিক তথ্য দেখাবে",261,256,0.000192750000,29.762551,0.000039150000,0.000153600000,qwen2.5:3b,0,42,256,length,
+50,English,"A family wants to reduce its monthly expenses without giving up essential needs. Suggest a simple method for tracking spending, identifying unnecessary costs, and setting a realistic monthly saving goal.","To help the family reduce their monthly expenses without compromising essential needs, you can follow these steps:
+
+1. **Track Spending**: Use a simple spreadsheet or a budgeting app to track all expenses. Include categories like groceries, utilities, transportation, entertainment, and any other regular expenses. This will give you a clear picture of where the money goes.
+
+2. **Identify Unnecessary Costs**: Review the tracked expenses. Look for recurring items that are not essential, such as subscriptions to streaming services, magazine subscriptions, or memberships to clubs that are not used frequently. Categorize these as ""unnecessary"" and note them down.
+
+3. **Set a Realistic Monthly Saving Goal**: Once you have identified unnecessary costs, you can start to cut back. Calculate how much you can save by eliminating these costs. Then, set a realistic monthly saving goal. For example, if you can save $100 by cutting out one streaming service, your goal might be to save $200 per month.
+
+4. **Create a Budget**: Based on your savings goal, create a budget that allocates funds to essential needs and the savings goal. Ensure that essential needs like housing, food, and healthcare are covered first.
+
+5. **Monitor and Adjust**: Regularly review your",75,256,0.000164850000,29.810173,0.000011250000,0.000153600000,qwen2.5:3b,0,42,256,length,
+50,Bangla,"একটি পরিবার প্রয়োজনীয় জিনিস বাদ না দিয়েই মাসিক খরচ কমাতে চায়। খরচের হিসাব রাখা, অপ্রয়োজনীয় ব্যয় চিহ্নিত করা এবং বাস্তবসম্মত মাসিক সঞ্চয়ের লক্ষ্য নির্ধারণের একটি সহজ পদ্ধতি প্রস্তাব করো।","একটি সহজ পদ্ধতি বাদ না দিয়ে মাসিক খরচ কমানোর জন্য নিম্নলিখিত পদ্ধতি প্রস্তাবিত করা যায়:
+
+1. খরচের হিসাব রাখুন: একটি খরচ হিসাব রাখার জন্য একটি প্রোগ্রাম বা ট্রান্সক্রিট ব্যবহার করুন। এটি সব খরচ এবং পরিশোধ সংক্রামক করতে সাহায্য করবে।
+
+2. অপ্রয়োজন",248,256,0.000190800000,31.459089,0.000037200000,0.000153600000,qwen2.5:3b,0,42,256,length,

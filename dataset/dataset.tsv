@@ -1,0 +1,51 @@
+﻿id	category	english	bangla
+1	question	What is the difference between RAM and storage?	RAM এবং স্টোরেজের মধ্যে পার্থক্য কী?
+2	question	Why does the Moon appear to change shape during the month?	মাসজুড়ে চাঁদকে বিভিন্ন আকারের দেখায় কেন?
+3	question	What causes rain to form in clouds?	মেঘের মধ্যে বৃষ্টি তৈরি হয় কী কারণে?
+4	question	How does a search engine find web pages?	একটি সার্চ ইঞ্জিন কীভাবে ওয়েবপেজ খুঁজে বের করে?
+5	question	Why is regular exercise important for health?	সুস্থতার জন্য নিয়মিত ব্যায়াম কেন গুরুত্বপূর্ণ?
+6	question	What is the purpose of a primary key in a database table?	ডেটাবেস টেবিলে প্রাইমারি কি-এর উদ্দেশ্য কী?
+7	question	How are weather and climate different?	আবহাওয়া ও জলবায়ুর মধ্যে পার্থক্য কী?
+8	question	What does an operating system do?	একটি অপারেটিং সিস্টেম কী কাজ করে?
+9	question	Why do some metals rust when exposed to air and water?	কিছু ধাতু বাতাস ও পানির সংস্পর্শে এলে মরিচা ধরে কেন?
+10	question	What information does a bar chart show?	একটি বার চার্ট কী ধরনের তথ্য দেখায়?
+11	instruction	Write three tips for creating a strong password.	একটি শক্তিশালী পাসওয়ার্ড তৈরির জন্য তিনটি পরামর্শ লেখো।
+12	instruction	Explain how to save a document as a PDF in simple steps.	সহজ কয়েকটি ধাপে কীভাবে একটি ডকুমেন্ট PDF হিসেবে সংরক্ষণ করতে হয় তা ব্যাখ্যা করো।
+13	instruction	List four ways to reduce electricity use at home.	বাড়িতে বিদ্যুতের ব্যবহার কমানোর চারটি উপায় লেখো।
+14	instruction	Give a beginner-friendly plan for learning Python over one week.	এক সপ্তাহে Python শেখার জন্য নতুনদের উপযোগী একটি পরিকল্পনা দাও।
+15	instruction	Describe how to wash your hands properly.	সঠিকভাবে হাত ধোয়ার পদ্ধতি বর্ণনা করো।
+16	instruction	Suggest three checks to perform before sending an email.	একটি ইমেইল পাঠানোর আগে যে তিনটি বিষয় যাচাই করা উচিত, সেগুলো বলো।
+17	instruction	Write a short checklist for preparing for an online meeting.	অনলাইন মিটিংয়ের প্রস্তুতির জন্য একটি সংক্ষিপ্ত চেকলিস্ট লেখো।
+18	instruction	Give two practical ways to protect a laptop from overheating.	ল্যাপটপ অতিরিক্ত গরম হওয়া থেকে রক্ষা করার দুটি কার্যকর উপায় বলো।
+19	instruction	Explain how to calculate the average of five numbers.	পাঁচটি সংখ্যার গড় কীভাবে হিসাব করতে হয় তা ব্যাখ্যা করো।
+20	instruction	Provide a simple sequence of steps for organizing files into folders.	ফাইলগুলোকে বিভিন্ন ফোল্ডারে সাজানোর সহজ ধাপগুলো লেখো।
+21	explanation	A computer network connects devices so they can exchange information and share resources.	কম্পিউটার নেটওয়ার্ক বিভিন্ন ডিভাইসকে সংযুক্ত করে, যাতে তারা তথ্য আদান-প্রদান করতে এবং সম্পদ ভাগাভাগি করে ব্যবহার করতে পারে।
+22	explanation	Photosynthesis is the process by which green plants use sunlight to make food from water and carbon dioxide.	সালোকসংশ্লেষণ হলো এমন একটি প্রক্রিয়া, যার মাধ্যমে সবুজ উদ্ভিদ সূর্যালোক ব্যবহার করে পানি ও কার্বন ডাই-অক্সাইড থেকে খাদ্য তৈরি করে।
+23	explanation	A database stores information in an organized way so that it can be searched and updated easily.	ডেটাবেস তথ্যকে সুশৃঙ্খলভাবে সংরক্ষণ করে, যাতে সহজে তথ্য খোঁজা ও হালনাগাদ করা যায়।
+24	explanation	A vaccine trains the immune system to recognize a particular disease-causing organism.	টিকা রোগ সৃষ্টিকারী নির্দিষ্ট জীবাণুকে শনাক্ত করতে রোগ প্রতিরোধব্যবস্থাকে প্রস্তুত করে।
+25	explanation	Cloud computing allows people to use computing services over the internet instead of relying only on their own computers.	ক্লাউড কম্পিউটিংয়ের মাধ্যমে মানুষ শুধু নিজের কম্পিউটারের ওপর নির্ভর না করে ইন্টারনেটের মাধ্যমে কম্পিউটিং সেবা ব্যবহার করতে পারে।
+26	explanation	Recycling turns used materials into new products and can reduce the amount of waste sent to landfills.	পুনর্ব্যবহার প্রক্রিয়ায় ব্যবহৃত উপকরণ থেকে নতুন পণ্য তৈরি করা হয় এবং এতে ময়লার ভাগাড়ে পাঠানো বর্জ্যের পরিমাণ কমতে পারে।
+27	explanation	An algorithm is a clear sequence of steps used to solve a problem or complete a task.	অ্যালগরিদম হলো কোনো সমস্যা সমাধান বা কাজ সম্পন্ন করার জন্য নির্ধারিত স্পষ্ট ধাপের ধারাবাহিকতা।
+28	explanation	Inflation is a general increase in prices that reduces the purchasing power of money over time.	মুদ্রাস্ফীতি হলো পণ্যের দাম সামগ্রিকভাবে বেড়ে যাওয়া, যার ফলে সময়ের সঙ্গে টাকার ক্রয়ক্ষমতা কমে যায়।
+29	explanation	A firewall monitors network traffic and applies rules to help block unauthorized access.	ফায়ারওয়াল নেটওয়ার্কের ট্রাফিক পর্যবেক্ষণ করে এবং অননুমোদিত প্রবেশ ঠেকাতে নির্ধারিত নিয়ম প্রয়োগ করে।
+30	explanation	The water cycle describes how water moves between the Earth's surface and the atmosphere through evaporation, condensation, and precipitation.	পানি চক্রে বাষ্পীভবন, ঘনীভবন ও বৃষ্টিপাতের মাধ্যমে পৃথিবীর পৃষ্ঠ এবং বায়ুমণ্ডলের মধ্যে পানির চলাচল বর্ণনা করা হয়।
+31	arithmetic	What is 18 multiplied by 7?	১৮-এর সঙ্গে ৭ গুণ করলে কত হয়?
+32	arithmetic	A notebook costs 45 taka. How much do 4 notebooks cost?	একটি খাতার দাম ৪৫ টাকা। ৪টি খাতার দাম কত?
+33	arithmetic	Divide 144 by 12 and give the result.	১৪৪-কে ১২ দিয়ে ভাগ করে ফলাফল দাও।
+34	arithmetic	A bus travels 60 kilometres in one hour. How far will it travel in 3 hours at the same speed?	একটি বাস এক ঘণ্টায় ৬০ কিলোমিটার যায়। একই গতিতে ৩ ঘণ্টায় বাসটি কত দূর যাবে?
+35	arithmetic	You have 500 taka and spend 175 taka. How much money remains?	তোমার কাছে ৫০০ টাকা আছে এবং তুমি ১৭৫ টাকা খরচ করলে। তোমার কাছে কত টাকা বাকি থাকবে?
+36	arithmetic	A class has 30 students. If 18 are girls, how many are boys?	একটি শ্রেণিতে ৩০ জন শিক্ষার্থী আছে। তাদের মধ্যে ১৮ জন মেয়ে হলে, ছেলে কতজন?
+37	arithmetic	What is 15 percent of 200?	২০০-এর ১৫ শতাংশ কত?
+38	arithmetic	A tank contains 25 litres of water. Another 8 litres are added. How much water is in the tank now?	একটি ট্যাংকে ২৫ লিটার পানি আছে। এতে আরও ৮ লিটার পানি যোগ করা হলো। এখন ট্যাংকে মোট কত লিটার পানি আছে?
+39	arithmetic	If 6 people share 48 oranges equally, how many oranges does each person get?	৬ জনের মধ্যে ৪৮টি কমলা সমানভাবে ভাগ করে দিলে প্রত্যেকে কয়টি কমলা পাবে?
+40	arithmetic	A phone battery drops from 90 percent to 65 percent. By how many percentage points did it decrease?	একটি ফোনের ব্যাটারির চার্জ ৯০ শতাংশ থেকে ৬৫ শতাংশে নেমে গেল। চার্জ কত শতাংশ পয়েন্ট কমেছে?
+41	summarisation	Summarise this sentence in one short sentence: The library extended its opening hours so students could study after their classes ended.	এই বাক্যটি এক বাক্যে সংক্ষেপ করো: শিক্ষার্থীরা ক্লাস শেষ হওয়ার পরও পড়াশোনা করতে পারে, তাই লাইব্রেরি খোলা থাকার সময় বাড়ানো হয়েছে।
+42	summarisation	Summarise this sentence in a few words: Heavy rainfall caused flooding in several villages and disrupted local transport.	এই বাক্যটি কয়েকটি শব্দে সংক্ষেপ করো: ভারী বৃষ্টিতে কয়েকটি গ্রামে বন্যা হয়েছে এবং স্থানীয় পরিবহনব্যবস্থা ব্যাহত হয়েছে।
+43	summarisation	Summarise this sentence in one sentence: The company introduced flexible working hours to help employees balance their work and personal responsibilities.	এই বাক্যটি এক বাক্যে সংক্ষেপ করো: কর্মীরা যাতে কাজ ও ব্যক্তিগত দায়িত্বের মধ্যে ভারসাম্য রাখতে পারেন, সে জন্য কোম্পানিটি নমনীয় কর্মঘণ্টা চালু করেছে।
+44	summarisation	Summarise this sentence without changing its main meaning: Regular backups help people recover important files after accidental deletion or device failure.	মূল অর্থ অপরিবর্তিত রেখে বাক্যটি সংক্ষেপ করো: নিয়মিত ব্যাকআপ রাখলে ভুলবশত ফাইল মুছে গেলে বা ডিভাইস নষ্ট হলে গুরুত্বপূর্ণ ফাইল পুনরুদ্ধার করা যায়।
+45	long_prompt	A small shop wants to keep track of its products. It currently writes sales in a paper notebook. Explain two benefits of using a simple spreadsheet instead.	একটি ছোট দোকান তার পণ্যের হিসাব রাখতে চায়। বর্তমানে দোকানটি কাগজের খাতায় বিক্রির তথ্য লেখে। এর পরিবর্তে একটি সাধারণ স্প্রেডশিট ব্যবহার করার দুটি সুবিধা ব্যাখ্যা করো।
+46	long_prompt	A student has an exam in seven days and has four subjects to revise. Suggest a realistic daily study plan. Include short breaks and time for reviewing difficult topics.	একজন শিক্ষার্থীর সাত দিন পর পরীক্ষা এবং তাকে চারটি বিষয় পুনরায় পড়তে হবে। প্রতিদিনের জন্য একটি বাস্তবসম্মত পড়ার পরিকল্পনা দাও। এতে ছোট বিরতি এবং কঠিন বিষয়গুলো পুনরায় পড়ার সময় রাখো।
+47	long_prompt	A person receives an email asking them to click a link and confirm their bank password. Explain why this may be dangerous and list safe actions they should take.	একজন ব্যক্তি একটি ইমেইল পেয়েছেন, যেখানে একটি লিংকে ক্লিক করে ব্যাংকের পাসওয়ার্ড নিশ্চিত করতে বলা হয়েছে। এটি কেন বিপজ্জনক হতে পারে তা ব্যাখ্যা করো এবং তাঁর নেওয়া উচিত এমন নিরাপদ পদক্ষেপগুলোর তালিকা দাও।
+48	long_prompt	A town is producing more plastic waste every year. Describe three practical actions that residents, shops, or local authorities could take to reduce this problem.	একটি শহরে প্রতি বছর প্লাস্টিক বর্জ্যের পরিমাণ বাড়ছে। এই সমস্যা কমাতে বাসিন্দা, দোকান বা স্থানীয় কর্তৃপক্ষ তিনটি বাস্তবসম্মত পদক্ষেপ নিতে পারে—সেগুলো বর্ণনা করো।
+49	long_prompt	A team is building a website for a local community group. The website must show announcements, upcoming events, and contact details. Suggest a simple page structure and explain what each section should contain.	একটি দল স্থানীয় একটি কমিউনিটি গ্রুপের জন্য ওয়েবসাইট তৈরি করছে। ওয়েবসাইটে ঘোষণা, আসন্ন অনুষ্ঠান এবং যোগাযোগের তথ্য দেখাতে হবে। একটি সহজ পেজ কাঠামোর প্রস্তাব দাও এবং প্রতিটি অংশে কী থাকবে তা ব্যাখ্যা করো।
+50	long_prompt	A family wants to reduce its monthly expenses without giving up essential needs. Suggest a simple method for tracking spending, identifying unnecessary costs, and setting a realistic monthly saving goal.	একটি পরিবার প্রয়োজনীয় জিনিস বাদ না দিয়েই মাসিক খরচ কমাতে চায়। খরচের হিসাব রাখা, অপ্রয়োজনীয় ব্যয় চিহ্নিত করা এবং বাস্তবসম্মত মাসিক সঞ্চয়ের লক্ষ্য নির্ধারণের একটি সহজ পদ্ধতি প্রস্তাব করো।
